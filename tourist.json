@@ -63,5 +63,14 @@
     "priceCurrency": "php",
     "lat": 16.79948,
     "lng":  120.357413
+  },
+  {
+    "id": 213,
+    "name": "bahay namin",
+    "imageUrl": "https://github.com/shawnshawn225/caniezo/blob/master/bahay.jpg?raw=true",
+    "price": 30,
+    "priceCurrency": "php",
+    "lat":16.32259 ,
+    "lng":  120.35037
   }
 ]
