@@ -54,5 +54,14 @@
     "priceCurrency": "php",
     "lat": 16.58814,
     "lng": 120.314598
+  },
+  {
+    "id": 212,
+    "name": "occalong",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/40/f5/c1/occalong-falls-during.jpg",
+    "price": 20,
+    "priceCurrency": "php",
+    "lat": 16.79948,
+    "lng":  120.357413
   }
 ]
