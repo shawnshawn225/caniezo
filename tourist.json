@@ -48,11 +48,11 @@
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "pindangan ruins",
+    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg",
+    "price": 20,
+    "priceCurrency": "php",
+    "lat": 16.58814,
+    "lng": 120.314598
   }
 ]
