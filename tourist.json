@@ -1,9 +1,8 @@
 [
   {
     "id": 145,
-    "name": "CSI city mall",
-    "description": "First mall in Sanfernando La union",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "CSI city mall- One of the first mall in Sanfernando La Union",
+     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
     "price": 7,
     "priceCurrency": "php",
     "lat": 16.629083,
