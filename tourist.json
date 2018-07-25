@@ -1,13 +1,12 @@
 [
   {
     "id": 145,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
-    "price": 7,
+    "name": "...bahay namin",
+    "imageUrl": "https://github.com/shawnshawn225/caniezo/blob/master/bahay.jpg?raw=true",
+    "price": 30,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat":16.32259 ,
+    "lng":  120.35037
   },
   {
     "id": 148,
@@ -72,11 +71,12 @@
   },
   {
     "id": 213,
-    "name": "...bahay namin",
-    "imageUrl": "https://github.com/shawnshawn225/caniezo/blob/master/bahay.jpg?raw=true",
-    "price": 30,
+    "name": "CSI city mall ",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "price": 7,
     "priceCurrency": "php",
-    "lat":16.32259 ,
-    "lng":  120.35037
+    "lat": 16.629083,
+    "lng": 120.322282,
+    "des":"- One of the first mall in San fernando La Union"
   }
 ]
