@@ -10,254 +10,245 @@
   },
   {
     "id": 148,
-    "name": "cccPagoda",
-    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "name": "El Nido, Palawan",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/10/12178197_10154376879183146_1061416062_n.jpg",
     "price": 0,
-    "priceCurrency": "php",
-    "lat": 16.614179,
-    "lng": 120.319104,
-    "des":"vvvThe province of La Union is a popular tourist destination, with more and more visitors coming every year to get a glimpse of the many fascinating attractions here.  Besides its fantastic beaches for swimming and surfing, La Union also has Pagoda Hill, situated in the city of San Fernando, the capital city of La Union"
+    "priceCurrency": "Km",
+    "lat": 11.209709 ,
+    "lng": 119.462254,
+    "des":"Named as the most beautiful island beaches in the world by Condé Nast Traveller magazine in 2015, El Nido is one of the must-visit and must-return places in the Philippines in 2016. When in El Nido, experience different island hopping tours to white sand beaches, enchanting lagoons, and crystal clear waters, where you can swim, snorkel, do kayaking, or just relax and embrace the hidden beauty of Mother Nature."
 
   },
   {
     "id": 201,
-    "name": "poro point lighthouse",
-    "imageUrl": "http://4.bp.blogspot.com/-7yZsXLNwdgE/Utmiy9KP1VI/AAAAAAAAD_w/mtrraLu9fyI/s1600/1548022_10200616809622166_1438021025_o.jpg",
+    "name": "Boracay Island, Aklan",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Boracay.jpg",
     "price": 40,
     "priceCurrency": "php",
-    "lat": 16.617425,
-    "lng": 120.290694,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 11.967375,
+    "lng": 121.924815,
+    "des":"Boracay is probably the most popular beach island in the Philippines. It’s every Filipino’s dream to visit this island located in the province of Aklan. "
   },
   {
     "id": 205,
-    "name": "macho temple",
-    "imageUrl": "https://image.vigattin.com/box/optimize/82/951_1029933429994833918.jpg",
+    "name": "Batanes Islands, Batanes",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Batanes.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.621206,
-    "lng": 120.317499,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 20.448507,
+    "lng": 121.970813,
+    "des":"Batanes is one of the most wanted tourist destinations in the Philippines."
   },
   {
     "id": 210,
-    "name": "tangadan falls",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/LA-UNION-TANGADAN-FALLS-5-1-of-12-846x515.jpeg",
+    "name": "Camiguin Island, Camiguin",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Camiguin-Island-Philippines.jpg",
     "price": 50,
     "priceCurrency": "Php",
-    "lat": 16.643578,
-    "lng": 120.448791
-
+    "lat": 9.173216,
+    "lng": 124.729877,
+    "des":"Camiguin province holds the record of having the most number of volcanoes per square kilometer than any other island on the planet.."
   },
   {
     "id": 211,
-    "name": "pindangan ruins",
-    "imageUrl": "https://foodietraveller.files.wordpress.com/2013/04/p1010532.jpg",
+    "name": "Malapascua Island, Cebu",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Malapascua.jpg",
     "price": 20,
     "priceCurrency": "php",
-    "lat": 16.58814,
-    "lng": 120.314598,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 11.335846,
+    "lng": 124.115636,
+    "des":"- Along with Palawan and Boracay, the island of Cebu is also considered one of the top 20 best islands in the world by Condé Nast Traveller magazine."
   },
   {
     "id": 212,
-    "name": "occalong",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0c/40/f5/c1/occalong-falls-during.jpg",
+    "name": "Kalanggaman Island, Leyte",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2016/01/kalanggaman-island-768x512.jpg",
     "price": 100,
     "priceCurrency": "php",
-    "lat": 16.79948,
-    "lng":  120.357413,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 11.114399,
+    "lng":  124.249454,
+    "des":"The island of Kalanggaman in Palompon has one of the most beautiful sandbars in the Philippines, and probably in the world."
   },
   {
     "id": 213,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Siargao Island, Surigao del Norte ",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Cloud-9-Siargao-Island.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 9.848188 ,
+    "lng": 126.045844,
+    "des":"Siargao is known as the surfing capital of the Philippines and home to the world-renowned surfing wave called “Cloud 9”."
   },
   {
     "id": 214,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Coron, Palawan ",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Kayangan-Lake-Coron.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 12.049926,
+    "lng": 120.178175,
+    "des":"Coron is a tropical paradise in the province of Palawan. The postcard-perfect scenery of Kayangan Lake with its towering limestone cliffs and crystalline waters is one of the must-visit places in the Philippines. "
   },
   {
     "id": 215,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Hinatuan Enchanted River, Surigao Del Sur ",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2016/01/Hinatuan-Enchanted-River.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 8.458829,
+    "lng": 126.354813,
+    "des":"If Surigao Del Norte is famous for its legendary Pacific waves in Siargao, Surigao Del Sur is known for its Enchanted River in Hinatuan."
   },
   {
     "id": 216,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Mayon Volcano, Albay",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/mayon.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 13.254832,
+    "lng": 123.686112,
+    "des":"Mount Mayon is the most active volcano in the Philippines. But in contrast of its threat lies a perfectly cone shaped volcano that can surpass the beauty of any volcano on Earth. "
   },
   {
     "id": 217,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Taal Volcano and Tagaytay, Batangas and Cavite ",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/taal.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat":14.011253,
+    "lng": 120.997691,
+    "des":"Tagaytay City in Cavite is a popular holiday destination located south of Manila. It’s an ideal place for leisure and recreation activities, such as picnic, horseback riding, zipline riding, and catching the picturesque view of Taal Volcano Island surrounded by Taal Lake."
   },
   {
     "id": 218,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Puerto Princesa Subterranean River National Park, Palawan",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Puerto-Princesa-Subterranean-River.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 10.19256,
+    "lng": 118.926583,
+    "des":"Palawan seems to never run dry of amazing destinations for tourists. The Puerto Princesa Subterranean River National Park also called Puerto Princesa Underground River is a UNESCO World Heritage Site and one of the New 7 Wonders of Nature."
   },
   {
     "id": 219,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": " Langun Gobingob Caves, Samar",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Calbiga-caves.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 11.932458,
+    "lng": 125.038816,
+    "des":"With hundreds of caves explored and mapped, the island of Samar is starting to be recognized as the caving capital of the Philippines."
   },
   {
     "id": 220,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Banaue Rice Terraces, Ifugao",
+    "imageUrl": "http://faq.ph/wp-content/uploads/2015/11/Banaue-Rice-Terraces-.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 16.923954,
+    "lng": 121.05564,
+    "des":"A national cultural treasure and considered by Filipinos as the “Eighth Wonder of the World”, the Rice Terraces of Banaue is a perfect place for sightseeing, getting closer with nature, getting to know the tribes of Ifugao, and even consulting with a Mumbaki (a traditional Ifugao witch doctor) to perform spiritual healing rituals. "
   },
   {
     "id": 221,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "chocolate Hills, Bohol",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Chocolate_Hills-1024x682.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 9.829708,
+    "lng": 124.139676,
+    "des":"One of the most famous landmarks of the Philippines, Chocolate Hills are more than a thousand hills spread over the municipalities of Carmen, Sagbayan and Batuan in Bohol. "
   },
   {
     "id": 222,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Mount Apo, Mindanao ",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Mount-Apo.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 6.987456,
+    "lng": 125.270996,
+    "des":"If you want the best of the Philippines, why not aim for the tallest mountain in the country? Mount Apo is the highest peak of the Philippines at 10,311 feet above sea level"
   },
   {
     "id": 223,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Tubbataha Reefs Natural Park, Palawan",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/11/Tubbataha-Reefs.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 8.853381,
+    "lng": 119.916165,
+    "des":"If Mount Apo is for hikers, the Tubbataha Reefs Natural Park is a heaven for the scuba divers. This wonderful underwater world near the middle of Sulu Sea is one of the best dive sites on Earth"
   },
   {
     "id": 224,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Vigan, Ilocos Sur",
+    "imageUrl": "http://faq.ph/wp-content/uploads/2015/12/calle-crisologo-vigan.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 17.57049 ,
+    "lng": 120.38733,
+    "des":"There are many Spanish colonial period houses and mansions that are scattered in the Philippines."
   },
   {
     "id": 225,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Intramuros and Rizal Park, Manila",
+    "imageUrl": "https://faq.ph/wp-content/uploads/2015/12/Intramuros-Manila.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 14.583118,
+    "lng":  120.979417,
+    "des":"Manila, the capital city of the Philippines, is abundant with historical and educational attractions. "
   },
   {
     "id": 226,
-    "name": "CSI city mall ",
+    "name": "National Museum of the Philippines, Manila ",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 14.586937,
+    "lng": 120.981248,
+    "des":"Another must-visit destination in Manila is the National Museum of the Philippines. If you like to learn more and appreciate the national cultural and historical treasures of the Filipinos, the museum is a place you shouldn’t miss in 2016. "
   },
   {
     "id": 227,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": " Lake Sebu ",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/24597329966_e0e95690a0_b.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 6.244739,
+    "lng": 124.552839,
+    "des":"Why should you pay a visit to Lake Sebu? While Lake Sebu is not as famous as Boracay and Palawan, it’s nonetheless a charming and lush destination with a burgeoning tourism industry."
   },
   {
     "id": 228,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Tagaytay ",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/24597329966_e0e95690a0_b.jpg",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 14.115286,
+    "lng": 120.962116,
+    "des":"the best!!!"
   },
   {
     "id": 229,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
+    "name": "Siquijor",
+    "imageUrl": "https://images.trekeffect.com/blog-trekeffect/2016/01/GettyImages-505768093.png",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 9.199878,
+    "lng": 123.595192,
+    "des":"Siuijor, dubbed as one the most mysterious places to visit in the Philippines, is a serene cove that is believed to be a breeding ground for witches, sorcerers and even mythical supernatural creatures"
   },
   {
     "id": 230,
-    "name": "CSI city mall ",
+    "name": "Catanduanes",
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
     "price": 7,
     "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
-  },
-  {
-    "id": 231,
-    "name": "CSI city mall ",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOZ8jqoRrKtW7nNPcmx58LKzGho68W64Z7Ky1ig=s1600-w400",
-    "price": 7,
-    "priceCurrency": "php",
-    "lat": 16.629083,
-    "lng": 120.322282,
-    "des":"- One of the first mall in San fernando La Union"
+    "lat": 13.708868,
+    "lng": 124.24216,
+    "des":"Cantaduanes is a typhoon-prone province that will sweep you away with its serene mountain tops, scenic grasslands, strong ocean breeze and towering cliffs."
   }
+
   
 ]
