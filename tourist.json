@@ -1,10 +1,10 @@
 [
   {
     "id": 145,
-    "name": "...bahay namin",
+    "name": "bahay namin",
     "imageUrl": "https://github.com/shawnshawn225/caniezo/blob/master/bahay.jpg?raw=true",
-    "price": 30,
-    "priceCurrency": "php",
+    "price": 1.76 ,
+    "priceCurrency": "Km",
     "lat":16.32259 ,
     "lng":  120.35037
   },
