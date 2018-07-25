@@ -27,7 +27,8 @@
     "price": 40,
     "priceCurrency": "php",
     "lat": 16.617425,
-    "lng": 120.290694
+    "lng": 120.290694,
+    "des":"- One of the first mall in San fernando La Union"
   },
   {
     "id": 205,
@@ -36,7 +37,8 @@
     "price": 7,
     "priceCurrency": "php",
     "lat": 16.621206,
-    "lng": 120.317499
+    "lng": 120.317499,
+    "des":"- One of the first mall in San fernando La Union"
   },
   {
     "id": 210,
@@ -55,7 +57,8 @@
     "price": 20,
     "priceCurrency": "php",
     "lat": 16.58814,
-    "lng": 120.314598
+    "lng": 120.314598,
+    "des":"- One of the first mall in San fernando La Union"
   },
   {
     "id": 212,
@@ -64,7 +67,8 @@
     "price": 100,
     "priceCurrency": "php",
     "lat": 16.79948,
-    "lng":  120.357413
+    "lng":  120.357413,
+    "des":"- One of the first mall in San fernando La Union"
   },
   {
     "id": 213,
